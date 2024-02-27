@@ -1,0 +1,61 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body{
+    background-image: url(foto/asvalt3.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	padding: 0px;
+}
+.ftext0{
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    
+}
+.text1{
+    width: 1050px; height:150px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.text2{
+    width: 1050px; height:150px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.text3{
+    width: 150px; height:350px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.foto01{display: flex;
+    justify-content: center;}
+.foto0{
+    border: 3px solid gray;
+    width: 250px; height:150px; margin: 5px;
+}
+.foto1{
+    display: flex;
+    border: 3px solid gray;
+    width: 250px; height:150px; margin: 5px;
+}
+.foto2{
+    display: flex;
+    border: 3px solid gray;
+    width: 250px; height:150px; margin: 5px;
+    
+}
+.foto3{
+    display: flex;
+    border: 3px solid gray;
+    width: 250px; height:150px; margin: 5px;
+}
+
+.left{
+    position: fixed;
+	left:0px;
+    top: 0px;
+    width: 100px; height:100px;
+}

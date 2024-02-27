@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.text0{
+	text-align: center;
+	color:white;
+	background-color: black;
+	font-family: 'Exo 2', sans-serif;
+	font-family: 'Pixelify Sans', sans-serif;}
+
+.bagr{background-image: url(foto/asvalt.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	padding: 0px;
+	}
+
+.mi1{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.f1{  width: 100px; height:100px; margin: 5px;   border: 3px solid gray;  }
+.f2{  width: 100px; height:100px; margin: 5px;   border: 3px solid gray;  }
+.f3{  width: 100px; height:100px; margin: 5px;   border: 3px solid gray;  }
+.f4{  width: 100px; height:100px; margin: 5px;   border: 3px solid gray;  }
+.f5{  width: 100px; height:100px; margin: 5px;   border: 3px solid gray;  }
+.f6{  width: 100px; height:100px; margin: 5px;   border: 3px solid gray;  }
+.f7{  width: 100px; height:100px; margin: 5px;   border: 3px solid gray;  }
+.f8{  width: 100px; height:100px; margin: 5px;   border: 3px solid gray;  }
+
+.mcar1{width: 200px; height:100px;}
+.mcar2{width: 200px; height:100px;}
+.mcar3{width: 200px; height:100px;}
+.mcar4{width: 200px; height:100px;}
+.mcar5{width: 200px; height:100px;}
+.mcar6{width: 200px; height:100px;}
+.mcar7{width: 200px; height:100px;}
+.mcar8{width: 200px; height:100px;}
+
+
